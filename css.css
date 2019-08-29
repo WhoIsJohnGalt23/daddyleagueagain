@@ -258,7 +258,7 @@ div#flip { color: #212529;
 div#gameoftheweek-container .card-body.text-center p.mb-0.text-muted {    font-size: x-small;}
 div#gameoftheweek-container .card-body.text-center h4.mt-0 {    font-size: x-large;}
 .col-4.d-flex.align-items-center.justify-content-center.rounded-left, .col-4.bg-inverse.d-flex.align-items-center.justify-content-center.rounded-right {      overflow: unset;  background-size: 100%!IMPORTANT;    BACKGROUND: transparent;}
-div#gameoftheweek-container  {     background: url(https://i.imgur.com/6Uw8tza.png), url(https://i.imgur.com/MBID8kf.png)!important;    background-size: 3%, cover!important;    background-position: 50%, top!important;    background-repeat: no-repeat!important;}
+div#gameoftheweek-container  {     background: url(https://i.imgur.com/6Uw8tza.png), url(https://i.imgur.com/oLaQW70.jpg)!important;    background-size: 3%, cover!important;    background-position: 50%, top!important;    background-repeat: no-repeat!important;}
 .col-lg-12.col-md-12.col-sm-12.col-xs-12.gameoftheweek .row.row-flush {    HEIGHT: 200PX;}
 div#gameoftheweek-container .card-body.text-center {display: inline-block;    vertical-align: middle;  line-height: normal;    text-shadow: 0 1px 2px black;    margin: auto;    background: linear-gradient(to top,#05060680 25%, #656161a6 49%, #00000063 105%);    padding: 4px;    border-radius: 5px;}
 .star {
