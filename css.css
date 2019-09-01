@@ -36,9 +36,7 @@ div#powerrankings .card-footer {    text-align: center;}div#powerrankings {   pa
 img.img-fluid.mx-auto {    padding-top: 15vh;  width:600px;   padding-bottom: 35vh;}
 div#leaguestatus img {    display: none!important;}
 div#leaguestatus {    top: -11px;    position: relative;}
-.week:before {    content: "SCOREBOARD /// div.a {
-  text-align: center;
-}Season 1 - Week 9";}    position: relative;    left: -16px;    top: 1px;}
+.week:before {    content: "SCOREBOARD --------- Season 1 - Week 9";   position: relative;    left: -16px;    top: 1px;}
 .week .col-1.text-center.d-flex.align-items-center.justify-content-center.rounded-left h1 {    position: relative;    top: -12px;    font-size: 10px;    left: 40px;}
 .tradeselect.fa-plus-circle {    color: #5cb85c;    background: #5cb85c;    padding: 8px;    border-radius: 5px;    font-size: smaller;}
 .tradeselect.fa-plus-circle:before {    content: "Add";    color: white;}
